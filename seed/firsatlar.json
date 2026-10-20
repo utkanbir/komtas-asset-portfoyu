@@ -1,0 +1,64 @@
+{
+ "albaraka-dwh": {
+  "asama": 0,
+  "asset": "dwh-assessment",
+  "cevaplar": {},
+  "durum": {},
+  "guncelleme": "2026-10-15T05:13:56.971Z",
+  "kisaltma": "",
+  "musteri": "Albaraka Türk Teknoloji",
+  "musteriAdi": "",
+  "not": "Tanışma toplantısı yapıldı, bilgi toplama formu gönderildi; cevaplar bekleniyor."
+ },
+ "ornek-dwh": {
+  "asama": 4,
+  "asset": "dwh-assessment",
+  "cevaplar": {
+   "birim_sayi": "6",
+   "butce": "Aralık verildi, modüler alım mümkün",
+   "dataset_kim": "Veri sahipleri tanımlı değil, BI ekibi söylüyor",
+   "dataset_sayi": "120",
+   "erisim": "İki – üç hafta",
+   "erisim_gun": "10",
+   "kapsam_disi": "",
+   "karar": "platform modernizasyonu",
+   "karar_kim": "CDO, Q1 2027 bütçe dönemi",
+   "kaynak_sayi": "40",
+   "log_gun": "60",
+   "modul": "Modül-1 + Modül-2",
+   "platform_karar": "Karar verilmedi",
+   "platform_sayi": "2",
+   "platformlar": "Teradata, Qlik Sense",
+   "satinalma": "RFP yok, doğrudan teklif",
+   "tuzel_kisiler": "Demo Bank A.Ş., Demo Faktoring A.Ş.",
+   "tuzel_sayi": "2"
+  },
+  "durum": {
+   "S1": "c",
+   "S10": "c",
+   "S11": "k",
+   "S12": "c",
+   "S2": "c",
+   "S3": "c",
+   "S4": "c",
+   "S5": "c",
+   "S6": "k",
+   "S7": "c",
+   "S8": "c",
+   "S9": "c"
+  },
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "iletisim": {},
+  "kisaltma": "DMB",
+  "musteri": "ÖRNEK — Demo Bank",
+  "musteriAdi": "Demo Bank A.Ş.",
+  "not": "Gösterim için uydurma veri. Gerçek bir müşteri değildir.",
+  "ornek": true,
+  "teklif": {
+   "lokasyon": "İstanbul",
+   "sira": "01",
+   "tarih": "2026-10-15"
+  },
+  "ticari": {}
+ }
+}

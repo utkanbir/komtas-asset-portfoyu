@@ -1,0 +1,676 @@
+{
+ "aday-01": {
+  "ad": "SAS replacement — Dataiku / Spark",
+  "guncelleme": "2026-10-19T13:54:39.103Z",
+  "kanit": {},
+  "kaynak": "Özgür / Enerjisa",
+  "not": "",
+  "puanlar": {
+   "S1": 1,
+   "S2": 3,
+   "S3": 1
+  },
+  "sira": 1
+ },
+ "aday-02": {
+  "ad": "Informatica DG — on-prem",
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "kanit": {},
+  "katalog": "data-governance",
+  "kaynak": "Utku",
+  "not": "",
+  "puanlar": {},
+  "sira": 2
+ },
+ "aday-03": {
+  "ad": "Query federation — Starburst",
+  "guncelleme": "2026-10-18T15:16:43.325Z",
+  "kanit": {},
+  "kaynak": "Evren / Akbank",
+  "not": "",
+  "puanlar": {
+   "S1": 3
+  },
+  "sira": 3
+ },
+ "aday-04": {
+  "ad": "Alteryx",
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "kanit": {},
+  "kaynak": "Evren",
+  "not": "",
+  "puanlar": {},
+  "sira": 4
+ },
+ "aday-05": {
+  "ad": "Looker + Gemini Enterprise",
+  "guncelleme": "2026-10-15T18:40:00Z",
+  "kanit": {},
+  "katalog": "gemini-agent-kit",
+  "kaynak": "Evren / Erdem",
+  "not": "15.10 Google toplantısı: aday-22 Gemini Enterprise Agent Kit'in modülü olarak değerlendirilecek.",
+  "puanlar": {},
+  "sira": 5
+ },
+ "aday-06": {
+  "ad": "LLM mesh",
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "kanit": {},
+  "kaynak": "Özgür / Aksa",
+  "not": "",
+  "puanlar": {},
+  "sira": 6
+ },
+ "aday-07": {
+  "ad": "Finans use case'leri",
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "kanit": {},
+  "kaynak": "Evren / Güner",
+  "not": "",
+  "puanlar": {},
+  "sira": 7
+ },
+ "aday-08": {
+  "ad": "GCP ile yapılan iş",
+  "birlesti": "aday-21, 22, 23 ve 24'e bölündü",
+  "guncelleme": "2026-10-15T18:40:00Z",
+  "kanit": {},
+  "kaynak": "Evren",
+  "not": "15.10 Google toplantısında karşılığı netleşti: 'GCP ile yapılan iş' Güner Hacıoğlu'nun portföyü ve şu adaylara bölündü → aday-21 Cloud Checkup, aday-22 Gemini Enterprise Agent Kit, aday-23 Application Modernization, aday-24 Predictive Analytics paketleri. BigQuery konsolidasyonu Data Modernization'ın Google kolu olarak katalogdaki data-modernization ve etl-migration-gcp kayıtlarına eklendi. Bu aday kapatılabilir.",
+  "puanlar": {},
+  "sira": 8
+ },
+ "aday-09": {
+  "ad": "PwC AI çözümü",
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "kanit": {},
+  "kaynak": "—",
+  "not": "",
+  "puanlar": {},
+  "sira": 9
+ },
+ "aday-10": {
+  "ad": "Muazza paketi",
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "kanit": {},
+  "kaynak": "—",
+  "not": "",
+  "puanlar": {},
+  "sira": 10
+ },
+ "aday-11": {
+  "ad": "Mapwright · Pegasus",
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "kanit": {},
+  "kaynak": "Özgür Öztürk",
+  "not": "",
+  "puanlar": {},
+  "sira": 11
+ },
+ "aday-12": {
+  "ad": "Agent governance",
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "kanit": {},
+  "kaynak": "Toplantı 14.10",
+  "not": "",
+  "puanlar": {},
+  "sira": 12
+ },
+ "aday-13": {
+  "ad": "Operasyonel sistemlerde data governance",
+  "asset_ad": "Operational Data Governance Enablement",
+  "asset_slug": "operational-data-governance",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-15T09:32:23.558Z",
+  "kanit": {},
+  "katalog": "operational-data-governance",
+  "kaynak": "Toplantı 14.10",
+  "not": "Data governance prensiplerinin operasyonel sistemlerde uygulanması.",
+  "puanlar": {
+   "S1": 2,
+   "S10": 3,
+   "S11": 3,
+   "S12": 3,
+   "S13": 3,
+   "S14": 3,
+   "S15": 3,
+   "S2": 3,
+   "S3": 3,
+   "S4": 0,
+   "S5": 3,
+   "S6": 3,
+   "S7": 3,
+   "S8": 3,
+   "S9": 1
+  },
+  "sira": 13
+ },
+ "aday-14": {
+  "ad": "SAP verisiyle conversational analytics (Satış/Pazarlama)",
+  "guncelleme": "2026-10-15T18:40:00Z",
+  "kanit": {},
+  "katalog": "gemini-agent-kit",
+  "kaynak": "Şişecam — yazışma 14.10",
+  "not": "Şişecam'da Google Gemini ile yapıldı. Başka müşteride yapılıp yapılmadığı bilinmiyor.\n15.10 Google toplantısı: aday-22 Gemini Enterprise Agent Kit'in modülü olarak değerlendirilecek.",
+  "puanlar": {},
+  "sira": 14
+ },
+ "aday-15": {
+  "ad": "Ürün videosu ve görsel üretimi (Pazarlama)",
+  "guncelleme": "2026-10-15T18:40:00Z",
+  "kanit": {},
+  "katalog": "gemini-agent-kit",
+  "kaynak": "Şişecam — yazışma 14.10",
+  "not": "Şişecam'da Google Gemini ile yapıldı. Başka müşteride yapılıp yapılmadığı bilinmiyor.\n15.10 Google toplantısı: aday-22 Gemini Enterprise Agent Kit'in modülü olarak değerlendirilecek.",
+  "puanlar": {},
+  "sira": 15
+ },
+ "aday-16": {
+  "ad": "Katalog zenginleştirme için görsel üretimi (Ürün Yönetimi)",
+  "guncelleme": "2026-10-15T18:40:00Z",
+  "kanit": {},
+  "katalog": "gemini-agent-kit",
+  "kaynak": "Şişecam — yazışma 14.10",
+  "not": "Şişecam'da Google Gemini ile yapıldı. Başka müşteride yapılıp yapılmadığı bilinmiyor.\n15.10 Google toplantısı: aday-22 Gemini Enterprise Agent Kit'in modülü olarak değerlendirilecek.",
+  "puanlar": {},
+  "sira": 16
+ },
+ "aday-17": {
+  "ad": "Ülke cam mevzuatı takibi ve uyarı (Uyumluluk)",
+  "guncelleme": "2026-10-15T18:40:00Z",
+  "kanit": {},
+  "katalog": "gemini-agent-kit",
+  "kaynak": "Şişecam — yazışma 14.10",
+  "not": "Şişecam'da Google Gemini ile yapıldı. Başka müşteride yapılıp yapılmadığı bilinmiyor.\n15.10 Google toplantısı: regülasyon takip ajanının sektörden bağımsız olduğu teyit edildi; aday-22 Gemini Enterprise Agent Kit'in çekirdek modülü.",
+  "puanlar": {},
+  "sira": 17
+ },
+ "aday-18": {
+  "ad": "CV sınıflandırma ve ilk eleme (İK)",
+  "guncelleme": "2026-10-15T09:00:00Z",
+  "kanit": {},
+  "kaynak": "Şişecam — yazışma 14.10",
+  "not": "Şişecam'ta talep edildi, henüz yapılmadı.",
+  "puanlar": {},
+  "sira": 18
+ },
+ "aday-19": {
+  "ad": "Legacy ETL → Google Cloud migration — ODI (MACFit)",
+  "asset_ad": "ETL Modernization on Google Cloud",
+  "asset_slug": "etl-migration-gcp",
+  "doga": "Bir platformdan diğerine taşır",
+  "guncelleme": "2026-10-16T05:24:54.035Z",
+  "kanit": {
+   "S14": "Data 360 — veri platformu modernizasyonu",
+   "S15": "Data Modernization (delivery) ve Lakehouse Assessment C Deep Dive ile çakışıyor; sınır yazılabilir: kapsam = ETL/pipeline migration, hedef = Google Cloud",
+   "S3": "ODI DD formu (12 sekme) + repository sorgularıyla otomatik envanter: 714 paket, 236 kaynak tablo, 15 kaynak sistem; Rev2 planda 5 efor grubu × birim saat. Generic halleri: hizmetler/etl-migration-gcp/ 7-discovery-formu, 8-odi-repository-sorgulari, 9-efor-modeli",
+   "S5": "Çıktı: GCP'de çalışan pipeline'lar + hedef mimari + cutover/devir. 15.10: blueprint ve müşteri sunumu (EN) hazır — hizmetler/etl-migration-gcp/ 1 ve 2; teklif şablonu (4a/4b) S1 netleşince"
+  },
+  "karar_kayit": {
+   "karar": "ASSET",
+   "not": "",
+   "puan": "86%",
+   "tarih": "2026-10-16T05:24:54.028Z"
+  },
+  "katalog": "etl-migration-gcp",
+  "kaynak": "MACFit fırsatı · Erdem Altunkaynak maili 12.10 / Derin",
+  "not": "Ön değerlendirme (Derin + Claude, 15.10): asset — ama 'MACFit ODI→GCP' olarak değil, 'Legacy ETL → Google Cloud migration' olarak; ODI ilk adapter (sonra PowerCenter / SSIS / Talend). İki parça: (1) ETL Migration Assessment — sabit fiyat 3–4 hafta; DD formu + ODI repository discovery script'leri + bucket bazlı efor modeli; Lakehouse Advisory C Deep Dive kalıbı. (2) ETL Modernization on Google Cloud — delivery; Data Modernization'ın GCP kolu; bucket bazlı birim fiyat veya T&M + cap.\nKanıt: ODI_Infolojik_Teknik_Formu.xlsx (12 sekme; 3 ve 5. sekmeler ODI repository sorgularından otomatik üretilmiş: 714 paket, 236 kaynak tablo, 15 kaynak sistem — MSSQL/MySQL/PostgreSQL; hepsi günlük). MACFit_Proje_Plani_Rev2.xlsx: 5 efor grubu × birim saat + %20 rezerv → 508,8 DE kişi-gün; 3 DE + 1 Cloud → 230 iş günü / 11,5 ay (mail 7–9 ay diyor).\nAçık noktalar: S1 eleme — ikinci somut fırsat yok; Satış ve Google partner manager'dan legacy ETL → GCP pipeline'ı sorulmalı. S12 — Google partner, GCP sertifikalı kadro sayısı? GCP Türkiye region'ı duyuruldu (Turkcell, Kas 2025) ama açılış tarihi yok → BDDK'ya tabi müşteriler şimdilik dışarıda. Teknik: envanterin %34'ü (242 paket) procedure/hedef belirsiz; ana motor Dataflow değil Dataform + Datastream olmalı; hacim bilgisi formda yok. aday-08 'GCP ile yapılan iş' ile ilişkisi kontrol edilmeli. Ayrıntı: Project dokümanı 'claude/aday-etl-migration-odi-gcp.md'.",
+  "puanlar": {
+   "S1": 2,
+   "S10": 3,
+   "S11": 2,
+   "S12": 3,
+   "S13": 3,
+   "S14": 3,
+   "S15": 2,
+   "S2": 3,
+   "S3": 3,
+   "S4": 2,
+   "S5": 2,
+   "S6": 3,
+   "S7": 3,
+   "S8": 2,
+   "S9": 3
+  },
+  "sira": 19
+ },
+ "aday-20": {
+  "ad": "Veri Yönetişimi Programı (strateji + Informatica DG uygulama + yönetilen hizmet)",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-15T10:15:00Z",
+  "kanit": {
+   "S1": "8 müşteri teklifi: Aras, Kazancı, Havelsan, Memorial, OYAK Dijital, Penti, THY, Vakıfbank",
+   "S10": "Informatica DG lisansı + Faz-2 uygulama + Faz-3 yönetilen hizmet",
+   "S13": "Aras–OYAK–Havelsan paragraflarının %50–85'i ortak",
+   "S14": "Data 360 / Context 360 (metadata, lineage, iş terimleri)",
+   "S15": "Katalogda DG asset'i yok; aday-02 ve aday-13 bunun alt parçaları",
+   "S2": "Lojistik, holding/enerji, savunma, sağlık, sanayi, perakende, havayolu, banka",
+   "S3": "Faz/modül yapısı ortak; sürücüler (sistem, veri elemanı, birim sayısı) tekliflerde örtük, formda değil",
+   "S5": "Faz-1 teslimat listesi tekliflerde yazılı (olgunluk raporu, organizasyon, strateji, RACI, sözlük, politika, teknoloji gereksinimi); bağımsız şablon yok"
+  },
+  "katalog": "data-governance",
+  "kaynak": "04_KOMTAS_RFP taraması 15.10 — 8 müşteri teklifi",
+  "not": "Kanıt: 04_KOMTAS_RFP klasöründe 8 müşteride teklif (Aras Kargo, Kazancı Holding, Havelsan, Memorial, OYAK Dijital, Penti, THY, Vakıfbank). Aras / OYAK / Havelsan aynı 3 fazlı iskeleti kullanıyor: Faz-1 Strateji (olgunluk değerlendirmesi 8 kategori, farkındalık eğitimi, çerçeve/organizasyon, politika-süreç-RACI, veri sözlüğü, pilot, yol haritası), Faz-2 Teknoloji uygulama (iş terimleri, metaveri/lineage, etiketleme, veri kalitesi, çalıştaylar), Faz-3 opsiyonel yönetilen hizmet. Paragraf düzeyinde ortak metin: Aras–OYAK %78–85, Havelsan–Aras/OYAK %62–65, Memorial–Aras %54 → fiili şablon var, resmileşmemiş.\nSüreler (teklif planı): Faz-1 Aras 30 g, Havelsan 40 g, OYAK 45 g, Memorial 60 g; Faz-2 Aras 42 g, OYAK 52 g (+60 g destek), Havelsan 61 g. Varyantlar: Kazancı = kurulu aracın yaygınlaştırılması; THY = araç temini + cloud migration (62 iş günü, 106,8 adam-gün); Vakıfbank = katalog + lineage uygulaması (80 g).\nAçık: boyutlandırma sürücüsü yazılı değil (sistem sayısı, kritik veri elemanı, birim sayısı süreyi belirliyor gibi); teklif eforu var, gerçekleşen efor yok (S4). Kademelendirme önerisi: A Strateji / B Teknoloji uygulama / C Yönetilen hizmet + migration ve yaygınlaştırma varyantları. aday-02 (Informatica DG — on-prem) ve aday-13 (operasyonel sistemlerde DG) bunun parçaları; birleştirilmeli. Ayrıntı: proje dokümanı claude/rfp-klasoru-asset-taramasi.md",
+  "puanlar": {
+   "S1": 3,
+   "S10": 3,
+   "S13": 2,
+   "S14": 3,
+   "S15": 3,
+   "S2": 3,
+   "S3": 2,
+   "S5": 2
+  },
+  "sira": 20
+ },
+ "aday-21": {
+  "ad": "Cloud Checkup — maliyet, kimlik/yetki ve konfigürasyon denetimi",
+  "doga": "Ölçer, not verir, yol haritası çıkarır",
+  "guncelleme": "2026-10-15T18:40:00Z",
+  "kanit": {
+   "S10": "Bulgu → düzeltme/optimizasyon projesi + bulut tüketim satışı",
+   "S12": "Google Premier partner; Azure ortaklığı yeni tamamlandı; sertifikalı kadro sayısı bilinmiyor",
+   "S14": "Bulut altyapı denetimi; 360 katmanlarına doğrudan oturmuyor (Data 360'ın altyapı tabanı sayılabilir)",
+   "S15": "Katalogda bulut denetimi yok",
+   "S2": "Bulut kullanan her sektörde geçerli"
+  },
+  "katalog": "cloud-checkup",
+  "kaynak": "Güner Hacıoğlu / Google toplantısı 15.10",
+  "not": "Bulut kullanan müşterilerde maliyet, IAM ve konfigürasyon hatalarını tespit eden denetim hizmeti; Güner sahada uyguluyor. Toplantıda yeni müşteri kazanımında 'güvenilir danışman' kapısı açtığı değerlendirildi. Azure ortaklığı tamamlandığı için GCP + Azure multi-cloud kurgulanabilir. Assessment ailesinin metoduna (ölç → not ver → yol haritası) oturuyor.\nAçık: kaç müşteride yapıldığı (S1), kontrol listesi ve rapor şablonu var mı (S3, S5), efor kaydı (S4) — Güner'in gelecek hafta paylaşacağı başarı hikâyeleriyle dolacak. Ticari not: lisans/tüketim marjı ince (Google %12–15, büyük anlaşmada %5–6, Azure %3); değer düzeltme projesi ve tüketim artışında.",
+  "puanlar": {
+   "S10": 3,
+   "S12": 2,
+   "S14": 1,
+   "S15": 3,
+   "S2": 3
+  },
+  "sira": 21
+ },
+ "aday-22": {
+  "ad": "Gemini Enterprise Agent Kit — regülasyon takip ajanı + sözleşme skill'leri",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-15T18:40:00Z",
+  "kanit": {
+   "S10": "Gemini Enterprise lisansı + ajan geliştirme + işletim",
+   "S12": "Google Premier partner; Türkiye'nin en büyük GE lisans satışı; sertifikalı kadro sayısı bilinmiyor",
+   "S14": "Agent 360",
+   "S15": "aday-12 Agent governance ve AI Governance Readiness ile kısmi çakışma; sınır yazılabilir",
+   "S2": "Mevzuat takibi ve sözleşme denetimi her regüle sektörde geçerli"
+  },
+  "katalog": "gemini-agent-kit",
+  "kaynak": "Güner Hacıoğlu / Şişecam / Google toplantısı 15.10",
+  "not": "Gemini Enterprise lisansı + hazır ajan/skill kütüphanesi + müşteriye uyarlama + işletim. Çekirdek: Şişecam için geliştirilen, Resmi Gazete ve yabancı ülke mevzuatını tarayan regülasyon takip ajanı; toplantıda sektörden bağımsız bir 'Arama ve Ajan Varlığı' olduğu teyit edildi. Ek modüller: sözleşme hazırlama/denetleme skill'leri; Şişecam'daki diğer Gemini işleri (aday-14 SAP conversational analytics, aday-15 ürün videosu/görsel, aday-16 katalog görselleri, aday-17 mevzuat takibi) ve aday-05 Looker + Gemini Enterprise bu paketin modülleri olarak değerlendirilecek.\nKanıt: Şişecam'da 1.100 kullanıcılık Gemini Enterprise lisansı (Türkiye'deki en büyük). Komtaş içinde 10 lisans (2 boşta).\nAçık: S1 eleme — bugün tek müşteri; 'uyarlanabilir' potansiyel, somut ikinci fırsat yok → şu an 0–1 puan, eleme riski. Satış'tan Gemini Enterprise pipeline'ı sorulmalı. aday-12 Agent governance ile sınır yazılmalı. Ticari not: Şişecam gibi büyük lisans anlaşmalarında marj ~%5–6; kâr ajan geliştirme ve işletimden gelmeli.",
+  "puanlar": {
+   "S10": 3,
+   "S12": 2,
+   "S14": 3,
+   "S15": 2,
+   "S2": 3
+  },
+  "sira": 22
+ },
+ "aday-23": {
+  "ad": "Application Modernization — on-prem → Kubernetes / Terraform / Helm / Argo CD",
+  "doga": "Bir platformdan diğerine taşır",
+  "guncelleme": "2026-10-15T18:40:00Z",
+  "kanit": {
+   "S10": "Bulut tüketimi + işletim dolaylı olarak açılıyor",
+   "S12": "Google Premier + Azure; sertifikalı kadro bilinmiyor",
+   "S14": "Uygulama/altyapı işi; 360 katmanlarına oturmuyor",
+   "S15": "Katalogda uygulama modernizasyonu yok; etl-migration-gcp veri tarafında",
+   "S2": "On-prem uygulama taşıma her sektörde var"
+  },
+  "katalog": "app-modernization",
+  "kaynak": "Güner Hacıoğlu / Ecofin / Google toplantısı 15.10",
+  "not": "On-prem uygulamaların konteynerize edilip buluta taşınması (Kubernetes, Terraform, Helm, Argo CD). Ecofin örneğiyle paket çözüm olarak konumlandırılabileceği belirtildi; toplantıda kritik yetkinlik olarak görüldü.\nAçık: SAT'ın veri/AI çekirdeği dışında; teslim kapasitesi bulut ekibinde — S11 (kişiye bağımlılık) Güner'e sorulmalı. Müşteri sayısı (S1), efor kaydı (S4) ve kabul kriteri (S6) Güner'in dokümanlarıyla dolacak. Azure ile multi-cloud hedef mümkün.",
+  "puanlar": {
+   "S10": 2,
+   "S12": 2,
+   "S14": 0,
+   "S15": 3,
+   "S2": 3
+  },
+  "sira": 23
+ },
+ "aday-24": {
+  "ad": "Predictive Analytics — use case kataloğu (5 aile)",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-18T09:00:00Z",
+  "kanit": {
+   "S1": "Paket düzeyinde 2 müşteri: MACFit churn, DeFacto talep tahmini",
+   "S10": "Veri platformu (BigQuery) ve MLOps/işletim işini açıyor",
+   "S12": "Google Premier partner; sertifikalı kadro bilinmiyor",
+   "S14": "AI 360",
+   "S15": "Katalogda hazır ML use-case paketi yok; AI Readiness ile sınır yazılabilir",
+   "S2": "Retail/consumer/fitness'ta yaygın"
+  },
+  "katalog": "predictive-analytics",
+  "kaynak": "Güner Hacıoğlu / Google toplantısı 15.10 + AX References & Services 2026 sunumu (analitik birim)",
+  "not": "v2 (18.10): AX referans sunumuyla birleştirildi. Paket hizmetler/predictive-analytics/: Pilot / Production / Run; 5 aile (Retention & Churn, Demand & Supply, Pricing & Personalization, Risk & Collections, Industrial Operations); platform bağımsız (Google Cloud, Dataiku, Azure ML, açık kaynak).\nÖlçülmüş referanslar (AX): Odeabank asset churn %11 (kontrol grubuna göre), Albaraka/TEB tahsilat %3–7, QNB Finansbank kredi onayı +%4,5 (aynı NPL), Eczacıbaşı Monrol HVAC %2,3, markdown +%4 gelir, lastik talep tahmini %7 stok maliyeti. MACFit / DeFacto (Güner) — POC/canlı ve sonuç bilinmiyor.\nDoğrulama ikiye bölündü: AX listesi 203 madde (29 ana soru), Güner listesi 31 madde (5 ana soru).\nAyrı adaylar: aday-25 Analytic CoE, aday-26 MLOps / AI Factory, aday-27 Dataiku migrasyonu, aday-28 Industrial AI.",
+  "puanlar": {
+   "S1": 2,
+   "S10": 2,
+   "S12": 2,
+   "S14": 3,
+   "S15": 3,
+   "S2": 2
+  },
+  "sira": 24
+ },
+ "aday-25": {
+  "ad": "Analytic CoE Enablement Program",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-16T12:00:00Z",
+  "kanit": {
+   "S1": "Odeabank, kamu bankası, özel banka — en az 3 müşteri (sunum)",
+   "S14": "AI 360 + Data 360 çatı",
+   "S15": "AI & Agentic Readiness, Predictive Analytics, MLOps adayı ile kısmi çakışma; çatı olarak konumlanır"
+  },
+  "kaynak": "AX References & Services 2026 sunumu (analitik birim) · 16.10",
+  "not": "4 stream / 11 modül: kaynak ve eğitim, analitik use case roadmap ve uygulama, ekosistem/mimari, governance, managed services. Çatı program: AI & Agentic Readiness (değerlendirme), Predictive Analytics (use case uygulama) ve MLOps / AI Factory'yi tek dönüşüm teklifinde birleştirir.\nKanıt: Odeabank (36 ay model veri seti, 2 ML modeli, MLOps ve bilgi transferi), kamu bankası (3 model MLOps ile yenilendi), özel banka model orkestrasyonu (Dataiku'da merkezileşme).\nAçık: program fiyatlama/süre modeli, ekip, mevcut paketlerle sınır; isim kullanım izinleri.",
+  "puanlar": {},
+  "sira": 25
+ },
+ "aday-26": {
+  "ad": "MLOps / AI Factory platform kurulumu",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-16T12:00:00Z",
+  "kanit": {
+   "S1": "ABB Bank, Şişecam, kamu bankası (sunum)",
+   "S14": "AI 360 platform katmanı",
+   "S15": "Predictive Analytics B (MLOps temeli) ile sınır yazılmalı"
+  },
+  "kaynak": "AX References & Services 2026 sunumu (analitik birim) · 16.10",
+  "not": "Model eğitim, dağıtım, izleme ve yeniden eğitim süreçlerini kuran platform işi (Dataiku, Google Composer, açık kaynak).\nKanıt: ABB Bank AI Factory (açık kaynak, yüzlerce model; IDC ödülü), Şişecam IIoT MLOps (4 saatte bir otomatik tahmin; 2 fabrikadan 11 fabrikaya yayılım kararı), kamu bankası MLOps.\nPredictive Analytics B Production'daki 'MLOps temeli' bu işin hafif sürümü; ayrı satılan platform kurulumu olarak aday.\nAçık: kapsam/efor modeli, platform seçenekleri, Predictive Analytics ile sınır.",
+  "puanlar": {},
+  "sira": 26
+ },
+ "aday-27": {
+  "ad": "Analitik platform migrasyonu → Dataiku (SAS / R / Pentaho)",
+  "birlesti": "aday-01 ile aynı iş (Dataiku migrasyonu)",
+  "doga": "Bir platformdan diğerine taşır",
+  "guncelleme": "2026-10-16T12:00:00Z",
+  "kanit": {
+   "S1": "Tüpraş, özel banka, Akbank (sunum)",
+   "S14": "Data/AI 360 platform",
+   "S15": "etl-migration-gcp ile kurgu benzer, hedef platform farklı"
+  },
+  "kaynak": "AX References & Services 2026 sunumu (analitik birim) · 16.10",
+  "not": "Model ve veri hazırlama işlerinin eski platformlardan Dataiku'ya taşınması.\nKanıt: Tüpraş — 90 Pentaho ETL projesi 6 ayda Dataiku'ya; özel banka — SAS/R pazarlama modelleri (50+ R modeli) Dataiku'ya, uçtan uca süre haftalardan günlere; Akbank model geliştirme süresi %25–40 kısaldı.\nMigration ailesi: ETL Modernization on Google Cloud ile aynı A Assessment / B Migration kurgusu kullanılabilir.\nAçık: Dataiku partnerliği ve lisans tarafı, efor birimleri, isim izinleri.",
+  "puanlar": {},
+  "sira": 27
+ },
+ "aday-28": {
+  "ad": "Industrial AI — enerji, kalite ve verim optimizasyonu",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-16T12:00:00Z",
+  "kanit": {
+   "S1": "Şişecam (çok iş), Eczacıbaşı Monrol, bir üretici (sunum)",
+   "S14": "AI 360 / Action 360",
+   "S15": "Predictive Analytics üretim use case'leri ile çakışma"
+  },
+  "kaynak": "AX References & Services 2026 sunumu (analitik birim) · 16.10",
+  "not": "IoT/sensör verisiyle ML destekli optimizasyon: fırın enerji optimizasyonu, sıcaklık kontrolü, kalite sınıflandırma, verim optimizasyonu, HVAC enerji, predictive maintenance.\nKanıt: Eczacıbaşı Monrol HVAC (%2,3 enerji tasarrufu, kontrol grubuna göre), Şişecam (fırın enerji, sıcaklık, kalite, verim — sonuçlar sunumda 'X%'), büyük üretici predictive maintenance (Dataiku).\nŞimdilik Predictive Analytics kataloğunda 'Üretim' başlığı altında; ikinci müşteri ve ölçülmüş sonuçlar gelince ayrı paket.\nAçık: Şişecam sonuç rakamları, tekrar kullanılabilir modüller, IoT veri ön koşulları.",
+  "puanlar": {},
+  "sira": 28
+ },
+ "aday-29": {
+  "ad": "Data Privacy & Test Data (KVKK) — discovery, maskeleme, test verisi, arşiv",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-18T09:40:00Z",
+  "kanit": {
+   "S12": "Informatica partner; IDMC maskeleme sertifikası bilinmiyor",
+   "S14": "Data 360 (güvenlik/gizlilik)",
+   "S15": "Katalogda veri gizliliği paketi yok",
+   "S2": "Kişisel veri işleyen her sektör (KVKK)",
+   "S3": "Damalink kataloğunda S/A/E kademeleri ve süreleri tanımlı",
+   "S5": "Discovery analiz raporu, keşif/maskeleme kural dokümanları mevcut",
+   "S7": "KVKK/BDDK dış tetikleyici; tarih müşteriye göre değişir"
+  },
+  "katalog": "data-privacy",
+  "kaynak": "Damalink Data Management Framework · 18.10",
+  "not": "Damalink 05 Data Security Framework: Data Discovery Assessment (1,5 ay; keşif ve maskeleme kuralları, analiz raporu, TR/EN), Data Discovery Layer (DPM; S/A/E 4/5/7 ay), Secure Test Data Layer (TR/EN sunum, soru listesi, PDM Automation Accelerator — Damalink kataloğunda yönetilen hizmet olarak fiyatlı), Data Archive Layer (iş gereksinimi + teknik doküman).\nYapılmış iş kanıtı (Digitallency sunumu 18.10): Yapı Kredi HR Data Integrations — KVKK kapsamında veri sınıflandırma, entegrasyon anında hassas verinin tespiti ve maskeleme mapplet'leri.\nKatalogda karşılığı yok. Dış tetikleyici: KVKK, BDDK, buluta taşımada maskeleme ihtiyacı. Damalink müşteri listesi banka ağırlıklı.\nAçık: içerik 2020–2021 ve on-prem ürün adlı (DPM, PDM) → IDMC karşılıkları (Cloud Data Masking vb.) eklenmeli; ortaklık modeli. Ayrıntı: claude/damalink-framework-analizi.md",
+  "puanlar": {
+   "S12": 2,
+   "S14": 3,
+   "S15": 3,
+   "S2": 3,
+   "S3": 2,
+   "S5": 2,
+   "S7": 2
+  },
+  "sira": 29
+ },
+ "aday-30": {
+  "ad": "Master Data Management / Customer 360",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-18T09:40:00Z",
+  "kanit": {
+   "S1": "Allianz Single Customer View (MDM), Hepsiburada PIM; talep: YeşimTech MDM SaaS",
+   "S10": "Informatica MDM lisansı + uygulama + işletim",
+   "S12": "Informatica partner; MDM SaaS sertifikası bilinmiyor",
+   "S14": "Data 360",
+   "S15": "CDP paketleriyle kısmi çakışma; sınır yazılabilir",
+   "S2": "Banka, sigorta, perakende, otomotiv, üretim",
+   "S3": "S/A/E kademeleri; 360 paketi kayıt hacmine göre (10 / 30 / 50 milyon)",
+   "S5": "Kural dokümanları, teknik mimari, iş gereksinimi şablonları mevcut"
+  },
+  "katalog": "mdm-customer-360",
+  "kaynak": "Damalink Data Management Framework · 18.10",
+  "not": "Damalink 03 MDM Framework: MDM Assessment (1,5 ay; iş gereksinimi soruları, high level architecture, eşleştirme kuralları), Centralized Customer System (IDQ; S/A/E 3/5/6+ ay), 360 Solution — Customer/Product/Vehicle (MDM; 5+ ay), PIM (4/5/6 ay), Reference Data Management (Informatica RDM vs inhouse karşılaştırma). Customer 360 klasöründe kaynak-hedef matrisi, birleştirme/eşleştirme/DQ kural dokümanları, teknik mimari.\nTalep kanıtı: RFP klasöründe YeşimTech Informatica MDM SaaS lisans soruları/konfigürasyonu.\nYapılmış iş kanıtı (Digitallency sunumu 18.10): Allianz Single Customer View — 4 sistem (AZS, AZHE, AZYE, YKS) tek analitik ortamda, şirket içi ve şirketler arası mükerrer müşteri temizliği; PowerCenter + IDQ + Informatica MDM; raporlar bir haftadan bir güne. Hepsiburada PIM projesi.\nSınır: MDM operasyonel golden record; CDP pazarlama/aktivasyon. Customer 360 kural dokümanları cdp-assessment / cdp-deger-onerisi'ne de girdi.\nAçık: IDMC MDM SaaS karşılığı, ortaklık modeli.",
+  "puanlar": {
+   "S1": 2,
+   "S10": 3,
+   "S12": 2,
+   "S14": 3,
+   "S15": 2,
+   "S2": 3,
+   "S3": 2,
+   "S5": 2
+  },
+  "sira": 30
+ },
+ "aday-31": {
+  "ad": "Data Quality Assessment & Foundation",
+  "doga": "Ölçer, not verir, yol haritası çıkarır",
+  "guncelleme": "2026-10-18T09:20:00Z",
+  "kanit": {
+   "S12": "Informatica partner",
+   "S14": "Data 360",
+   "S15": "data-governance B kademesiyle ciddi çakışma",
+   "S2": "Her sektör",
+   "S3": "Sürücü: sistem ve kural sayısı (Damalink kataloğu)"
+  },
+  "kaynak": "Damalink Data Management Framework · 18.10",
+  "not": "Damalink kataloğu: DQ Assessment (1 ay, hizmet) + DQ Foundation (IDQ; S/A/E 2 / 3 / 4–6 ay, sistem ve kural sayısına göre). Kökte Veri_Kalitesi_Analiz_Sorular ve Data Management and Quality PM soru setleri.\nKARAR GEREKLİ: ayrı paket mi, data-governance B kademesinin (Technology Enablement) veri kalitesi modülü mü? Komtaş DG tekliflerinde (Aras, OYAK, Havelsan) veri kalitesi Faz-2 modülü olarak geçiyor; Havelsan'da opsiyonel.\nAçık: IDMC CDQ karşılığı, kural sayısına göre bant.",
+  "puanlar": {
+   "S12": 2,
+   "S14": 3,
+   "S15": 1,
+   "S2": 3,
+   "S3": 2
+  },
+  "sira": 31
+ },
+ "aday-32": {
+  "ad": "Informatica Platform Health & Monitoring (yönetilen hizmet)",
+  "doga": "Ölçer, not verir, yol haritası çıkarır",
+  "guncelleme": "2026-10-18T09:20:00Z",
+  "kanit": {
+   "S1": "Allianz (ADM managed services), Odeabank (sunucu taşıma)",
+   "S10": "Yönetilen hizmet (tekrarlayan gelir) + migration",
+   "S12": "Aktif Informatica partner",
+   "S14": "Data 360",
+   "S15": "etl-migration-gcp A Assessment ile kısmi çakışma; o paketin PowerCenter adapter'ı olarak da kullanılabilir",
+   "S2": "PowerCenter kullanan kurumlar (banka, sigorta, havayolu, otomotiv)",
+   "S3": "Kural seti ve sorgular hazır; sürücü: repository/job sayısı"
+  },
+  "katalog": "data-platform-ops",
+  "kaynak": "Damalink Data Management Framework · 18.10",
+  "not": "Damalink 04 Data Integration Framework: Data Integration Assessment (PowerCenter performans kontrol noktaları, standart sorgular, deployment checklist, geliştirici soruları) + PowerCenter Monitoring Accelerator (TR/EN, 37 SQL kural; Damalink kataloğunda yönetilen hizmet olarak fiyatlı).\nTalep kanıtı: Allianz Data Office ADM Managed Services teknik şartnamesi, Odeabank Informatica sunucu taşıma (RFP klasörü).\nİki kullanım: (1) yönetilen hizmet (izleme + sağlık kontrolü), (2) etl-migration-gcp ve PowerCenter → IDMC migration'ın discovery modülü (Ford, THY, Odeabank).\nAçık: IDMC izleme karşılığı; ortaklık modeli.",
+  "puanlar": {
+   "S1": 2,
+   "S10": 3,
+   "S12": 3,
+   "S14": 3,
+   "S15": 2,
+   "S2": 2,
+   "S3": 2
+  },
+  "sira": 32
+ },
+ "aday-33": {
+  "ad": "Insurance Data Management Program (sektör paketi)",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-18T09:40:00Z",
+  "kanit": {
+   "S1": "Sabancı Sigorta grubu fırsatı + Allianz",
+   "S14": "Data 360",
+   "S15": "Mevcut DG/DWH/Data Modernization paketleriyle çakışma; sektör varyantı olarak sınır yazılabilir",
+   "S2": "Tek sektör (sigorta), birkaç kurum",
+   "S7": "Sektör regülasyonu (SEDDK) dış tetikleyici"
+  },
+  "katalog": "industry-data-models",
+  "kaynak": "Damalink Data Management Framework · 18.10",
+  "not": "Damalink Insurance Layer (sigortacılık domain modeli, ETL süreci, TR/EN sunum ve şablon) + kökteki Komtaş_Damalink Sigortacılık Veri Yönetimi Programı sunumu.\nHedefler: Sabancı Sigorta grubu (AgeSA / Aksigorta / Medisa — RFP klasöründe DnA assessment teklifi), Allianz (Damalink müşterisi; Digitallency sunumunda Allianz Single Customer View / MDM referansı), Generali ve Sompo (Damalink potansiyel listesi).\n18.10: aday-36 Industry Data Models ailesinin sigorta üyesi olarak birleştirilmesi önerildi.\nAçık: domain modelinin güncelliği (çoğunlukla 2020), referanslar, ortaklık modeli.",
+  "puanlar": {
+   "S1": 2,
+   "S14": 3,
+   "S15": 2,
+   "S2": 1,
+   "S7": 2
+  },
+  "sira": 33
+ },
+ "aday-34": {
+  "ad": "Regulatory Reporting Data Layer — BDDK / TCMB / BCBS 239 / IFRS 9",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-18T09:40:00Z",
+  "kanit": {
+   "S1": "Yapı Kredi, Vakıf Katılım, KKB",
+   "S12": "Informatica/Oracle; Digitallency kadrosu",
+   "S14": "Data 360",
+   "S15": "DWH Assessment ve data-governance (DQ) ile kısmi çakışma",
+   "S2": "Bankacılık/katılım bankacılığında yaygın",
+   "S7": "BDDK/TCMB raporlama takvimi, BCBS 239, IFRS 9"
+  },
+  "katalog": "regulatory-reporting",
+  "kaynak": "Digitallency 2025 sunumu · 18.10",
+  "not": "Yasal raporlama veri katmanı: TCMB/BDDK raporları, IFRS 9, VTM, PERDAR (BCBS 239), EBA raporları, kredi riski raporlaması; işlem ve portföy verisinin ortak katmanda toplanması, veri kalitesi kuralları, Data Demand Layer.\nKanıt (Digitallency referansları): Yapı Kredi Legal Reporting, Vakıf Katılım Legal Reporting (BOA platformundan EDW), KKB Basel II Validation (bankalardan gelen verinin kural bazlı doğrulanması, %5 hata eşiği; Informatica).\nKatalogda karşılığı yok. Dış tetikleyici güçlü ve tarihli (regülasyon takvimi).\nAçık: referansların güncelliği (2015–2020), Digitallency ile ortaklık modeli, isim izinleri.",
+  "puanlar": {
+   "S1": 3,
+   "S12": 2,
+   "S14": 3,
+   "S15": 2,
+   "S2": 2,
+   "S7": 3
+  },
+  "sira": 34
+ },
+ "aday-35": {
+  "ad": "Datamart Consolidation & KPI Harmonization",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-18T09:40:00Z",
+  "kanit": {
+   "S1": "Akbank, Türk Telekom, Yapı Kredi",
+   "S10": "DWH Assessment'tan sonra gelir; operasyon desteğini açar",
+   "S13": "Yöntem ortak, müşteri modeli farklı",
+   "S14": "Data 360",
+   "S15": "Data Modernization ve DWH Assessment ile sınır yazılmalı",
+   "S2": "Banka, telekom, her büyük DWH sahibi",
+   "S3": "Sürücüler: datamart, tablo, ETL job, rapor/universe sayısı (Türk Telekom örneğinde sayılmış)",
+   "S5": "Çıktılar referanslarda tarif edilmiş (conformed layer, KPI sözlüğü, decommission listesi); şablon yok"
+  },
+  "katalog": "datamart-consolidation",
+  "kaynak": "Digitallency 2025 sunumu · 18.10",
+  "not": "Dağınık datamart/DWH'lerin conformed katmanda birleştirilmesi, ortak KPI sözlüğü, gereksiz rapor/tablo/datamart'ların kapatılması.\nKanıt (Digitallency referansları): Akbank — 2007'den beri geliştirilmiş 10+ datamart konsolidasyonu, 4 paralel agile ekip, 30 datamart'ın deployment koordinasyonu, sorgu loglarının big data ortamında analiziyle decommission listesi, KPI sözlüğü. Türk Telekom — 3 DWH (MSSQL, Oracle, Sybase) tek DWH'ye; 240 TB, 12.000 tablo, ~540 SSIS job, ~1.000 T-SQL script, ~200 BO universe; CDR işleme 20 saatten 1 saate. Yapı Kredi MIS Modernization (Sybase IQ → Oracle, PL-SQL migration framework).\nDWH Assessment'ın doğal takip projesi (assessment → konsolidasyon). Sorgu logu analiziyle decommission yöntemi tekrar kullanılabilir accelerator.\nAçık: efor modeli, Data Modernization ile sınır, ortaklık modeli.",
+  "puanlar": {
+   "S1": 3,
+   "S10": 2,
+   "S13": 2,
+   "S14": 3,
+   "S15": 2,
+   "S2": 3,
+   "S3": 2,
+   "S5": 2
+  },
+  "sira": 35
+ },
+ "aday-36": {
+  "ad": "Industry Data Models — Banking, Investment Banking, Telco (cLDM), Insurance",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-18T09:40:00Z",
+  "kanit": {
+   "S1": "Garanti Yatırım, Osmanlı Yatırım, QNB Finansinvest, Türk Telekom, TTNET, Kuveyt Türk",
+   "S13": "Hazır model; uyarlama payı düşük",
+   "S14": "Data 360",
+   "S15": "aday-33 (sigorta) ve DWH paketleriyle çakışma; aile olarak birleştirilebilir",
+   "S2": "Her model kendi sektöründe yaygın",
+   "S5": "Subject area listeleri ve KPI setleri tanımlı"
+  },
+  "katalog": "industry-data-models",
+  "kaynak": "Digitallency 2025 sunumu + Damalink Insurance Layer · 18.10",
+  "not": "Sektöre özel kurumsal veri modeli ve hazır subject area'larıyla EDW kurulumu. Digitallency: Banking DM (party, event, channel, campaign, media, contract; Customer 360, sales & profitability, campaign KPI'ları), Investment BDW, Telco DM / Teradata cLDM (party, event, finance, network, contract, product).\nKanıt: Investment BDW — Garanti Yatırım, Osmanlı Yatırım, QNB Finansinvest; Telco cLDM — Türk Telekom, TTNET; Banking EDW — Kuveyt Türk, Vakıf Katılım, Softtech/Boubyan Bank. Sigorta kolu: Damalink Insurance Layer (aday-33).\nAday-33 Insurance Data Management Program bu ailenin sigorta üyesi olarak birleştirilebilir.\nAçık: modellerin lisans/sahiplik durumu (Teradata cLDM ürünü mü, Digitallency IP'si mi), güncellik, ortaklık modeli.",
+  "puanlar": {
+   "S1": 3,
+   "S13": 3,
+   "S14": 3,
+   "S15": 2,
+   "S2": 2,
+   "S5": 2
+  },
+  "sira": 36
+ },
+ "aday-37": {
+  "ad": "Data Platform Operations Support (DWH & BI AMS / kaynak modeli)",
+  "doga": "Bir şeyi kurar",
+  "guncelleme": "2026-10-18T09:40:00Z",
+  "kanit": {
+   "S1": "THY, Şişecam, Vodafone, SABB, Bank of Mısr; talep: Allianz, Digiturk",
+   "S10": "Tekrarlayan gelir",
+   "S14": "Data 360 (işletim)",
+   "S15": "aday-32 ile çakışma; modül olarak birleştirilebilir",
+   "S2": "Her sektör"
+  },
+  "katalog": "data-platform-ops",
+  "kaynak": "Digitallency 2025 sunumu · 18.10",
+  "not": "DWH, ETL ve BI ortamlarının işletim desteği ve uzman kaynak modeli (Resourcing Hub: Teradata outsource, DWH/BI geliştirici, modelleme, mimar, analist).\nKanıt (Digitallency referansları): THY DWH & BI Operation Support, Şişecam BI Support, Vodafone Informatica Support, SABB ve Bank of Mısr Teradata Consultancy Support, STC-KSA outsource consulting. Talep (RFP klasörü): Allianz Data Office ADM Managed Services, Digiturk kıdemli kaynak katılım modeli.\nTekrarlayan gelir. aday-32 Informatica Platform Health & Monitoring bu paketin Informatica modülü olabilir.\nAçık: SLA/fiyat modeli (FTE mi, ticket mi, paket mi), Digitallency–Komtaş rol dağılımı.",
+  "puanlar": {
+   "S1": 3,
+   "S10": 3,
+   "S14": 3,
+   "S15": 2,
+   "S2": 3
+  },
+  "sira": 37
+ },
+ "aday-38": {
+  "ad": "Industrial Data Platform Readiness (IT/OT) — SSOT Assessment",
+  "doga": "Ölçer, not verir, yol haritası çıkarır",
+  "guncelleme": "2026-10-20T21:00:00Z",
+  "kanit": {
+   "S10": "Lakehouse kurulumu (DataFloem, Starburst lisansı) + Industrial AI / Predictive Analytics",
+   "S12": "Starburst ve DataFloem portföyde; Crosser ve Theobald partnerlik durumu bilinmiyor",
+   "S13": "Şablonlar genel; OT kısmı müşteriye göre değişir",
+   "S14": "Data 360",
+   "S15": "Lakehouse Assessment B ile ciddi çakışma",
+   "S2": "Üretim sektöründe yaygın (IT/OT)",
+   "S3": "Sürücüler teklifte yazılı: en fazla 2–3 domain, 1 fabrika / 3 hat; 7 rol bazlı soru seti",
+   "S5": "4 çıktı için şablon doküman mevcut"
+  },
+  "katalog": "lakehouse-assessment",
+  "kaynak": "Bakioğlu Holding SSOT Readiness Assessment teklifi + çıktı şablonları + sunum (13.04.2026) · 20.10",
+  "not": "Mevcut materyal: teklif (5 faz: hazırlık, paydaş discovery 1 g, current state 1 g, saha ziyareti ve OT/IoT incelemesi 1 g — en fazla 1 fabrika / 3 hat, hedef durum ve roadmap 5 g, executive review 2 g; 500.000 TRY), 7 rol bazlı workshop soru seti (yönetim, iş birimi/saha, veri & analitik, altyapı, kurumsal mimari, güvenlik, OT/IoT), 4 çıktı şablonu (mevcut durum raporu, SSOT olgunluk değerlendirmesi — Low/Medium/High, 10 capability; hedef mimari yaklaşımı; teknoloji öneri matrisi — açık kaynak / ticari / hibrit + TCO), müşteri sunumu (IT/OT fragmentation, lakehouse referans mimarisi: Kafka, Debezium, Theobald, Crosser, DataFloem/Spark/Iceberg, MinIO, Starburst, Airflow, OpenMetadata, Kubernetes; üretim use-case matrisi: OEE, enerji verimliliği, RCA, predictive maintenance, süreç optimizasyonu, hurda/kalite).\nÇAKIŞMA: Lakehouse Assessment B (Modernization) ile yöntem büyük ölçüde aynı (mevcut durum → hedef mimari → teknoloji matrisi → yol haritası). Ayrışan kısım OT/industrial veri boyutu, saha ziyareti, OT workshop'u ve üretim use-case matrisi.\nÖNERİ: ayrı genel 'SSOT Assessment' açılmasın; Lakehouse Assessment B'nin üretim/IT-OT varyantı olarak konumlansın. Teknoloji öneri matrisi ve 7 rol bazlı soru seti Lakehouse ve DWH Assessment'a da girdi. Takip işi: lakehouse kurulumu (DataFloem, Starburst) + aday-28 Industrial AI + Predictive Analytics üretim modülleri.\nTEKLİF HATALARI: ticari tabloda hizmet adı 'Oracle DWH & ODI to Google Cloud Data Platform Assessment' (MACFit teklifinden kalmış); kapsamda 4.4 Analytics & AI Use-Case Ön Değerlendirmesi çıktı olarak var ama Kapsam Sınırları'nda 'analitik use-case önerisi kapsam dışı'; bölüm numaraları bozuk (3.1.3 iki kez); boyut sayısı tutarsız (sunumda 6, olgunluk dokümanında 10 capability); toplam ~10 gün için 500.000 TRY — efor delivery ile doğrulanmalı.\nAyrıntı: claude/ssot-assessment-bakioglu-analizi.md",
+  "puanlar": {
+   "S10": 3,
+   "S12": 2,
+   "S13": 2,
+   "S14": 3,
+   "S15": 1,
+   "S2": 2,
+   "S3": 3,
+   "S5": 3
+  },
+  "sira": 38
+ }
+}

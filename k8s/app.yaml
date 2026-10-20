@@ -1,0 +1,47 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: asset-portfoyu
+spec:
+  replicas: 2
+  selector:
+    matchLabels: {app: asset-portfoyu}
+  template:
+    metadata:
+      labels: {app: asset-portfoyu}
+    spec:
+      securityContext: {runAsNonRoot: true, runAsUser: 10001}
+      containers:
+        - name: app
+          image: asset-portfoyu
+          ports: [{containerPort: 8080, name: http}]
+          env:
+            - name: DATABASE_URL
+              valueFrom: {secretKeyRef: {name: asset-portfoyu, key: DATABASE_URL}}
+            - name: BASIC_USERS
+              valueFrom: {secretKeyRef: {name: asset-portfoyu, key: BASIC_USERS, optional: true}}
+            # header: önde oauth2-proxy (Entra ID) var; basic: Secret'taki kullanıcılar; none: yalnızca geliştirme
+            - {name: AUTH_MODE, value: header}
+            - {name: AUTH_HEADER, value: X-Auth-Request-Email}
+            # Yazma yetkisi: alan adı ve/veya e-posta listesi. Diğerleri salt okunur.
+            - {name: WRITERS, value: "@komtas.com.tr"}
+          readinessProbe:
+            httpGet: {path: /readyz, port: http}
+            periodSeconds: 10
+          livenessProbe:
+            httpGet: {path: /healthz, port: http}
+            periodSeconds: 20
+          resources:
+            requests: {cpu: 50m, memory: 128Mi}
+            limits: {memory: 384Mi}
+          securityContext: {allowPrivilegeEscalation: false, readOnlyRootFilesystem: true}
+          volumeMounts: [{name: tmp, mountPath: /tmp}]
+      volumes: [{name: tmp, emptyDir: {}}]
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: asset-portfoyu
+spec:
+  selector: {app: asset-portfoyu}
+  ports: [{port: 80, targetPort: http, name: http}]

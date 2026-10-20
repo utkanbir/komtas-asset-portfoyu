@@ -1,0 +1,27 @@
+# ingress-nginx + oauth2-proxy (Entra ID / Google) varsayılmıştır.
+# oauth2-proxy kurulumu kümede zaten varsa (ör. Corporate Memory için) aynı örnek kullanılabilir.
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: asset-portfoyu
+  annotations:
+    nginx.ingress.kubernetes.io/auth-url: "https://oauth2.example.komtas.com.tr/oauth2/auth"
+    nginx.ingress.kubernetes.io/auth-signin: "https://oauth2.example.komtas.com.tr/oauth2/start?rd=$scheme://$host$escaped_request_uri"
+    nginx.ingress.kubernetes.io/auth-response-headers: "X-Auth-Request-Email,X-Auth-Request-Preferred-Username"
+    # SSE (canlı güncelleme) bağlantıları için
+    nginx.ingress.kubernetes.io/proxy-buffering: "off"
+    nginx.ingress.kubernetes.io/proxy-read-timeout: "3600"
+    nginx.ingress.kubernetes.io/proxy-body-size: "2m"
+spec:
+  ingressClassName: nginx
+  tls:
+    - hosts: [asset-portfoyu.example.komtas.com.tr]
+      secretName: asset-portfoyu-tls
+  rules:
+    - host: asset-portfoyu.example.komtas.com.tr
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service: {name: asset-portfoyu, port: {name: http}}

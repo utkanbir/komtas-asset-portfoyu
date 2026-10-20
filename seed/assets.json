@@ -1,0 +1,844 @@
+{
+ "ai-governance-readiness-assessment": {
+  "ad": "AI Governance Readiness Assessment",
+  "not": "A/B readiness paketi (A AI Governance Check · B AI Governance Readiness Assessment); birim AI sistemi. Değer önerisi sunumu ayrı kaynak olarak duruyor. Efor kalibre değil — delivery onayı bekliyor.",
+  "sira": 8,
+  "slots": {
+   "s0": {
+    "dosya": "ai-governance-readiness-assessment-0-surec-akisi-tr/en.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "ai-governance-readiness-assessment-1-blueprint-tr/en.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "ai-governance-readiness-assessment-2-musteri-sunumu-tr/en.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "ai-governance-readiness-assessment-3a/3b-…-girdi-formu-tr/en.docx",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "ai-governance-readiness-assessment-4a/4b-…-teklif-sablonu-tr/en.docx",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "ai-governance-readiness-assessment-5-musteri-soru-seti-tr/en.xlsx",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "ai-governance-readiness-assessment-6-ic-soru-seti-tr/en.xlsx",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Assessment"
+ },
+ "ai-readiness-assessment": {
+  "ad": "AI & Agentic Readiness Assessment",
+  "not": "v2 (16.10): AI ekibinin Enterprise Readiness Playbook / Grounded Intelligence Readiness çerçevesine uyarlandı — 8 boyut D1–D8, L1–L4, 6 maddelik kapı, Blocking/Manageable, Grounded Intelligence devam işi, Banka/Sigorta soru ekleri. A Check · B Assessment; use case birim. Efor kalibre değil — delivery onayı bekliyor.",
+  "sira": 4,
+  "slots": {
+   "s0": {
+    "dosya": "ai-readiness-assessment-0-surec-akisi-tr/en.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "ai-readiness-assessment-1-blueprint-tr/en.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "ai-readiness-assessment-2-musteri-sunumu-tr/en.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "ai-readiness-assessment-3a/3b-…-girdi-formu-tr/en.docx",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "ai-readiness-assessment-4a/4b-…-teklif-sablonu-tr/en.docx",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "ai-readiness-assessment-5-musteri-soru-seti-tr/en.xlsx",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "ai-readiness-assessment-6-ic-soru-seti-tr/en.xlsx",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-16",
+  "tur": "Assessment"
+ },
+ "app-modernization": {
+  "ad": "Application Modernization",
+  "not": "A Assessment · B Migration · C Platform Ops (aday-23). 360 katmanlarına oturmaz.",
+  "sira": 18,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "app-modernization-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "app-modernization-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a · 3b · 3c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a · 4b · 4c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Migration paketi"
+ },
+ "bi-assessment": {
+  "ad": "BI Assessment",
+  "not": "İki hizmet: A BI Health Check (1–2 hf, kırmızı/sarı/yeşil) · B BI Modernization Assessment (3–4 hf, 12 boyut, merdiven, skor yok); TR + EN. Süreler Lakehouse'tan aktarıldı, delivery onayı bekliyor; KARE IT-2026-012 ile karşılaştırılacak.",
+  "sira": 3,
+  "slots": {
+   "s0": {
+    "dosya": "bi-assessment-0-surec-akisi-tr.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "bi-assessment-1-blueprint-tr.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "bi-assessment-2-musteri-sunumu-tr.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a / 3b hizmet girdi formları (-tr)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a / 4b hizmet teklif şablonları (-tr)",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "bi-assessment-5-musteri-soru-seti-tr.xlsx",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "bi-assessment-6-ic-soru-seti-tr.xlsx",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Assessment"
+ },
+ "cdp-assessment": {
+  "ad": "CDP Assessment + Değer Önerisi",
+  "not": "İki klasör de boş (cdp-assessment, cdp-deger-onerisi); tek asset olarak sayılır",
+  "sira": 10,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "st": "yok"
+   },
+   "s2": {
+    "st": "yok"
+   },
+   "s3": {
+    "st": "yok"
+   },
+   "s4": {
+    "st": "yok"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Assessment"
+ },
+ "cloud-checkup": {
+  "ad": "Cloud Checkup",
+  "not": "Bulut maliyet, IAM ve konfigürasyon denetimi (aday-21). Güner doğrulama listesi var.",
+  "sira": 16,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "cloud-checkup-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "cloud-checkup-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "cloud-checkup-3-teklif-girdi-formu.docx (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "cloud-checkup-4-teklif-sablonu.docx (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Assessment"
+ },
+ "data-governance": {
+  "ad": "Data Governance Program",
+  "not": "A Strategy · B Technology Enablement · C Managed Service. Kaynak: 8 DG teklifi (aday-20) + Damalink DG framework.",
+  "sira": 15,
+  "slots": {
+   "s0": {
+    "dosya": "data-governance-0-surec-akisi.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "data-governance-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "data-governance-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a · 3b · 3c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a · 4b · 4c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "data-governance-5-musteri-soru-seti.xlsx (EN + TR)",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "data-governance-6-ic-soru-seti.xlsx (EN + TR)",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Delivery paketi"
+ },
+ "data-mesh-readiness-assessment": {
+  "ad": "Data Mesh Readiness Assessment",
+  "not": "İlk readiness paketi. A Readiness Check (1–2 hf, domain başına ön koşul kapısı) · B Readiness Assessment (3–4 hf, 10 boyut, hazırlık matrisi, pilot ve geçiş planı, skor yok); TR + EN. Süreler delivery onayı bekliyor.",
+  "sira": 5,
+  "slots": {
+   "s0": {
+    "dosya": "data-mesh-readiness-assessment-0-surec-akisi-tr.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "data-mesh-readiness-assessment-1-blueprint-tr.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "data-mesh-readiness-assessment-2-musteri-sunumu-tr.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a / 3b hizmet girdi formları (-tr)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a / 4b hizmet teklif şablonları (-tr)",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "data-mesh-readiness-assessment-5-musteri-soru-seti-tr.xlsx",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "data-mesh-readiness-assessment-6-ic-soru-seti-tr.xlsx",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Assessment"
+ },
+ "data-modernization": {
+  "ad": "Data Modernization",
+  "not": "Ayrıca 5-teknoloji-ve-efor-referans-modeli.xlsx\nGoogle kolu (15.10 Google toplantısı kararı): dağınık veritabanlarının BigQuery üzerinde konsolidasyonu bu paketin Google bacağı olarak konumlanır. Alt hizmetler: (a) BigQuery veritabanı konsolidasyonu, (b) ETL migration → etl-migration-gcp. İkisi ayrı satılmaz, aynı Google kolunun alt hizmetleri olarak anlatılır.",
+  "sira": 7,
+  "slots": {
+   "s0": {
+    "dosya": "data-modernization-0-surec-akisi.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "data-modernization-1-blueprint.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "data-modernization-2-musteri-sunumu.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3-desen-belirleme-formu.docx, 4-boyutlandirma-formu.docx",
+    "st": "farkli"
+   },
+   "s4": {
+    "dosya": "6-teklif-sablonu.docx",
+    "st": "farkli"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Delivery paketi"
+ },
+ "data-platform-ops": {
+  "ad": "Data Platform Operations Support",
+  "not": "A Health Check · B Transition · C Operate (aday-37, aday-32). Damalink ve Digitallency doğrulama listeleri var.",
+  "sira": 24,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "data-platform-ops-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "data-platform-ops-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a · 3b · 3c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a · 4b · 4c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Managed service paketi"
+ },
+ "data-privacy": {
+  "ad": "Data Privacy & Test Data (KVKK)",
+  "not": "A Assessment · B Protect · C Archive & Run (aday-29). Damalink ve Digitallency doğrulama listeleri var.",
+  "sira": 22,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "data-privacy-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "data-privacy-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a · 3b · 3c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a · 4b · 4c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Delivery paketi"
+ },
+ "data-product-delivery": {
+  "ad": "Data Product Delivery",
+  "not": "K7 kararıyla Data Product Assessment yerine kuruldu (assessment Faz 0'ın içinde). A Faz 0 Discovery & Design (sabit bedel, 3–4 hf) · B Pilot (6–8 hf, sabit) + yaygınlaştırma dalgaları (dalga başı sabit veya tavanlı T&M). TR + EN tam paket, teklif üretimi açık. Efor SAT tahmini, delivery onayı bekliyor. Referans yok.",
+  "sira": 12,
+  "slots": {
+   "s0": {
+    "dosya": "data-product-delivery-0-surec-akisi-tr/en.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "data-product-delivery-1-blueprint-tr/en.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "data-product-delivery-2-musteri-sunumu-tr/en.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a / 3b hizmet girdi formları (-tr/-en)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a / 4b hizmet teklif şablonları (-tr/-en)",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "data-product-delivery-5-musteri-soru-seti-tr/en.xlsx",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "data-product-delivery-6-ic-soru-seti-tr/en.xlsx",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Delivery paketi"
+ },
+ "datamart-consolidation": {
+  "ad": "Datamart Consolidation & KPI Harmonization",
+  "not": "A Assessment · B Consolidation · C Run (aday-35). Digitallency doğrulama listesi var.",
+  "sira": 21,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "datamart-consolidation-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "datamart-consolidation-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a · 3b · 3c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a · 4b · 4c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Delivery paketi"
+ },
+ "dwh-assessment": {
+  "ad": "DWH Assessment",
+  "not": "Referans paket: diğer asset'ler bu numaralamaya ve dil ekine (-en / -tr) uyarlanacak",
+  "sira": 1,
+  "slots": {
+   "s0": {
+    "dosya": "dwh-assessment-0-surec-akisi-tr.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "dwh-assessment-1-blueprint-en.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "dwh-assessment-2-musteri-sunumu-en.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "dwh-assessment-3-teklif-girdi-formu-tr.docx",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "dwh-assessment-4-teklif-sablonu-tr.docx",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "dwh-assessment-5-musteri-soru-seti-tr.xlsx",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "dwh-assessment-6-ic-soru-seti-tr.xlsx",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Assessment"
+ },
+ "etl-migration-gcp": {
+  "ad": "ETL Modernization on Google Cloud (Legacy ETL → GCP)",
+  "not": "A Assessment (sabit bedel, 3–4 hf) / B Migration (paket başı birim fiyat veya tavanlı T&M). 0, 3a/3b, 4a/4b, 5, 6 TR+EN taslak — delivery onayı bekliyor (A eforu 25/30/35 ig). Ekler: 7 discovery formu, 8 ODI repository script, 9 efor modeli.\nKapsam sınırı (15.10): bu paket ETL/pipeline taşımayı kapsar; dağınık veritabanlarının BigQuery'de konsolidasyonu Data Modernization Google kolunun diğer alt hizmetidir. İkisi aynı kolun parçası olarak anlatılır.",
+  "sira": 13,
+  "slots": {
+   "s0": {
+    "dosya": "etl-migration-gcp-0-surec-akisi-tr.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "etl-migration-gcp-1-blueprint-en.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "etl-migration-gcp-2-musteri-sunumu-en.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a / 3b hizmet girdi formları (-tr)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a / 4b hizmet teklif şablonları (-tr)",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "etl-migration-gcp-5-musteri-soru-seti-tr.xlsx",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "etl-migration-gcp-6-ic-soru-seti-tr.xlsx",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Migration paketi"
+ },
+ "gemini-agent-kit": {
+  "ad": "Gemini Enterprise Agent Kit",
+  "not": "A Launch · B Agent Pack · C Run (aday-22; modüller aday-05, 14–17). Güner doğrulama listesi var.",
+  "sira": 17,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "gemini-agent-kit-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "gemini-agent-kit-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "gemini-agent-kit-3-teklif-girdi-formu.docx (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "gemini-agent-kit-4-teklif-sablonu.docx (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Delivery paketi"
+ },
+ "industry-data-models": {
+  "ad": "Industry Data Models",
+  "not": "A Fit Assessment · B Implementation · C Extension; Banking, Investment, Telco, Insurance (aday-36, aday-33). Üç doğrulama listesi var.",
+  "sira": 25,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "industry-data-models-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "industry-data-models-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a · 3b · 3c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a · 4b · 4c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Delivery paketi"
+ },
+ "lakehouse-assessment": {
+  "ad": "Lakehouse Assessment",
+  "not": "Üç ayrı hizmet: A Health Check (1–2 hf), B Modernization (3–4 hf), C Deep Dive (2–4 hf); TR + EN",
+  "sira": 2,
+  "slots": {
+   "s0": {
+    "dosya": "lakehouse-assessment-0-surec-akisi-tr.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "lakehouse-assessment-1-blueprint-tr.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "lakehouse-assessment-2-musteri-sunumu-tr.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a / 3b / 3c hizmet girdi formları (-tr)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a / 4b / 4c hizmet teklif şablonları (-tr)",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "lakehouse-assessment-5-musteri-soru-seti-tr.xlsx",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "lakehouse-assessment-6-ic-soru-seti-tr.xlsx",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Assessment"
+ },
+ "mdm-customer-360": {
+  "ad": "MDM / Customer 360",
+  "not": "A Assessment · B Domain Foundation · C Multidomain & Run (aday-30). Damalink ve Digitallency doğrulama listeleri var.",
+  "sira": 23,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "mdm-customer-360-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "mdm-customer-360-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a · 3b · 3c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a · 4b · 4c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "mdm-customer-360-5-musteri-soru-seti.xlsx (EN + TR)",
+    "st": "var"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Delivery paketi"
+ },
+ "ontology-knowledge-graph": {
+  "ad": "Ontology / Knowledge Graph",
+  "not": "Context 360 katmanı; paket tipi henüz karara bağlanmadı\nGoogle eşleştirmesi (15.10 Google toplantısı kararı): blueprint'e teknoloji seçeneği olarak Spanner Graph ve BigQuery Graph eklenecek; büyük kurumsal müşterilere Google altyapısıyla sunulabilir. Değer önerisinde kullanılabilecek veri: kurumsal verinin ~%80'i yapısal olmayan, ~%20'si işlemsel.",
+  "sira": 6,
+  "slots": {
+   "s0": {
+    "dosya": "ortak: hizmetler/assessment-0-surec-akisi.pptx",
+    "st": "farkli"
+   },
+   "s1": {
+    "dosya": "ontology-knowledge-graph-1-blueprint.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "ontology-knowledge-graph-2-musteri-sunumu.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "ontology-knowledge-graph-3-teklif-girdi-formu.docx",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "ontology-knowledge-graph-4-teklif-sablonu.docx",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Assessment / Delivery kararı açık"
+ },
+ "operational-data-governance": {
+  "ad": "Operational Data Governance Enablement",
+  "not": "Danışmanlık işi: A Faz 0 Discovery & Design (sabit bedel, 3–4 hf) · B Pilot (6–8 hf, sabit) + yaygınlaştırma dalgaları (dalga başı sabit veya tavanlı T&M). TR + EN tam paket, teklif üretimi açık. Efor SAT tahmini, delivery onayı bekliyor. İlk referans CCI.",
+  "sira": 14,
+  "slots": {
+   "s0": {
+    "dosya": "operational-data-governance-0-surec-akisi-tr.pptx",
+    "st": "var"
+   },
+   "s1": {
+    "dosya": "operational-data-governance-1-blueprint-tr.pptx",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "operational-data-governance-2-musteri-sunumu-tr.pptx",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a / 3b hizmet girdi formları (-tr)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a / 4b hizmet teklif şablonları (-tr)",
+    "st": "var"
+   },
+   "s5": {
+    "dosya": "operational-data-governance-5-musteri-soru-seti-tr.xlsx",
+    "st": "var"
+   },
+   "s6": {
+    "dosya": "operational-data-governance-6-ic-soru-seti-tr.xlsx",
+    "st": "var"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Delivery paketi"
+ },
+ "predictive-analytics": {
+  "ad": "Predictive Analytics",
+  "not": "A Pilot · B Production · C Run; 5 use case ailesi (aday-24 + AX sunumu). AX ve Güner doğrulama listeleri var.",
+  "sira": 19,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "predictive-analytics-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "predictive-analytics-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a · 3b · 3c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a · 4b · 4c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Delivery paketi"
+ },
+ "regulatory-reporting": {
+  "ad": "Regulatory Reporting Data Layer",
+  "not": "A Assessment · B Data Layer · C Run (aday-34). Digitallency doğrulama listesi var.",
+  "sira": 20,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "regulatory-reporting-1-blueprint.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s2": {
+    "dosya": "regulatory-reporting-2-musteri-sunumu.pptx (EN + TR)",
+    "st": "var"
+   },
+   "s3": {
+    "dosya": "3a · 3b · 3c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s4": {
+    "dosya": "4a · 4b · 4c (docx) (EN + TR)",
+    "st": "var"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-18",
+  "tur": "Delivery paketi"
+ },
+ "vibe-coding-standartlari": {
+  "ad": "Vibe Coding Standartları",
+  "not": "",
+  "sira": 9,
+  "slots": {
+   "s0": {
+    "st": "yok"
+   },
+   "s1": {
+    "dosya": "vibe-coding-standartlari-1-blueprint.pptx (TR + EN)",
+    "st": "var"
+   },
+   "s2": {
+    "st": "yok"
+   },
+   "s3": {
+    "st": "yok"
+   },
+   "s4": {
+    "st": "yok"
+   },
+   "s5": {
+    "st": "yok"
+   },
+   "s6": {
+    "st": "yok"
+   }
+  },
+  "tarama": "2026-10-15",
+  "tur": "Delivery paketi"
+ }
+}
