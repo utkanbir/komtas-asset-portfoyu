@@ -8,5 +8,5 @@ resources:
   - ingress.yaml
 images:
   - name: asset-portfoyu
-    newName: ghcr.io/derinege/komtas-asset-portfoyu
+    newName: ghcr.io/utkanbir/komtas-asset-portfoyu
     newTag: latest
